@@ -10,7 +10,8 @@ Description	- HMM based POS tagger using supervised learning technique.
 
 Usage		- python supervised.py <training_file_path> <test_file_path> 
 	
-Example		- To execute for hindi, telugu, kannada, tamil enter the below line.
+Example		- Few of the sample executions are given below
+
 		- python supervised.py 1 ./data/kannada_testing_sentences_full.txt
 		- python supervised.py 1 ./data/kannada_testing_sentences_100.txt
 		- python supervised.py 0 ./data/kannada_testing100.txt
